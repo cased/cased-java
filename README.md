@@ -26,7 +26,7 @@ Add the dependency to your POM file:
 <dependency>
   <groupId>com.cased</groupId>
   <artifactId>cased-java</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1-SNAPSHOT</version>
 </dependency>
 ```
 
@@ -34,7 +34,7 @@ Add the dependency to your POM file:
 Add the dependency to your build file:
 
 ```groovy
-implementation "com.cased:cased-java:0.1.0"
+implementation "com.cased:cased-java:0.1.1-SNAPSHOT"
 ```
 
 ## Configuration
