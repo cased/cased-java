@@ -4,6 +4,9 @@
 .classpath
 .project 
 .settings 
+settings.xml
+
+*.releaseBackup
 
 # Log file
 *.log
